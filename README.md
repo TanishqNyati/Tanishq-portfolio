@@ -1,2 +1,0 @@
-# Tanishq-portfolio
-portfolio repository
