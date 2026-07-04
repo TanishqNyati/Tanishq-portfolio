@@ -2,7 +2,7 @@
 
 Personal portfolio website for Tanishq Nyati, AWS Cloud & Infrastructure Engineer.
 
-🔗 **Live site:** https://tanishq15nyati08.github.io/tanishq-portfolio/
+🔗 **Live site:**  https://tanishqnyati.github.io/Tanishq-portfolio/
 *(update this link once your repo is created — see below)*
 
 ## What's here
